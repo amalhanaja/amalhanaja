@@ -1,4 +1,4 @@
-### Hi there, I'm [Alfian Akmal Hanantion][website] 👋
+### Hi there, I'm [Alfian Akmal Hanantio][website] 👋
 
 ## I'm an Android Developer!
 - 🌱 I’m currently learning everything 🤣
