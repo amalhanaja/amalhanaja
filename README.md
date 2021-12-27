@@ -2,8 +2,6 @@
 
 ## I'm an Android Developer!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Jetpack Compose, Kotlin MultiPlatform
 - ⚡ Fun fact: I love to play guitar / games
 
 ### Connect with me:
