@@ -39,7 +39,7 @@
 
 <img align="left" alt="amalhanaja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amalhanaja&show_icons=true&hide_border=true" />
 
-[website]: https://amalcodes.netlify.app
+[website]: https://amalhanaja.dev/
 [twitter]: https://twitter.com/amalhanaja
 [instagram]: https://instagram.com/amalcodes
 [linkedin]: https://linkedin.com/in/amalhanaja
