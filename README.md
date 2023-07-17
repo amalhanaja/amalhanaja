@@ -35,6 +35,8 @@
 <br />
 <br />
 
+<img align="center" alt="Language" src="https://wakatime.com/share/@amalhanaja/867804b0-0a66-4e28-8561-ff8891738fcc.svg" />
+
 ---
 
 <img align="left" alt="amalhanaja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amalhanaja&show_icons=true&hide_border=true" />
